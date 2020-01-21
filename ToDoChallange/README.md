@@ -2,13 +2,9 @@
 
 ## Overview
 
----
-
 The basic idea is to take your Matplotlibplayground script, and alter it to use actual data.
 
 ## Some helpful notes
-
----
 
 It'll probably help to use python's `open('file')`, the datetime module, and some basic array manipulation.
 
